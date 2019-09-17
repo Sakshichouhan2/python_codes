@@ -1,3 +1,4 @@
+# this program is to just demonstrate the functionality of single level inheritance in python
 class rect:
 	def __init__(self,length,breadth):
 		self.l = length
